@@ -1,0 +1,19 @@
+body {
+   background-color: #fdfd96;
+}
+html {
+   scroll-behavior: smooth;
+ }
+
+.ancho {
+   height: 300px;
+   margin-left: 200px;
+}
+
+.card {
+   height: 600px;
+}
+
+.linea {
+   height: 125px;
+}
